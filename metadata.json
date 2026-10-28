@@ -1,0 +1,6 @@
+{
+  "name": "Ranuu AI",
+  "description": "Your personal AI assistant with elegant blush-pink aesthetic, deep research, image generation, and private local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
